@@ -1,0 +1,14 @@
+		    MCJOLLIBEE
+	       Lipa City, Batangas
+		  Stock Inventory
+
+Items               Initial        Sales          Waste          Actual         
+Order 1             100            75             0              25             
+Order 2             100            0              8              92             
+Order 3             100            0              5              95             
+Order 4             100            0              6              94             
+Order 5             100            0              8              92             
+
+
+		*Items 1, have been replenished of stock
+

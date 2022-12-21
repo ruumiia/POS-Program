@@ -1,0 +1,24 @@
+		    MCJOLLIBEE
+	       Lipa City, Batangas
+		     Receipt
+
+__________________________________________________
+
+	Receipt Number: 0131543
+	Cashier: poi
+	Date: Mon Dec 14 14:15:49 2020
+
+__________________________________________________
+
+Qty  Item                          Cost                          
+
+75   Burger, Fries, Soda           7500.00                       
+__________________________________________________
+
+Total:                             7500.00                       
+Payment:                           8000.00                       
+Change:                            500.00                        
+
+
+	Thank You Please Come Again
+__________________________________________________

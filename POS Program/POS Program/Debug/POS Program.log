@@ -1,0 +1,5 @@
+﻿  POS Program.cpp
+E:\Academic Documents\POS Program\POS Program\POS Program.cpp(413,30): warning C4101: 'PINtemp': unreferenced local variable
+E:\Academic Documents\POS Program\POS Program\POS Program.cpp(929,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Academic Documents\POS Program\POS Program\POS Program.cpp(1118,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  POS Program.vcxproj -> E:\Academic Documents\POS Program\Debug\POS Program.exe
